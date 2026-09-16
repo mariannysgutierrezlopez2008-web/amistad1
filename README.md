@@ -1,0 +1,2 @@
+# amistad1
+proyecto
